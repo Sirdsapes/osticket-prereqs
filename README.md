@@ -37,7 +37,7 @@ After our resource group is created, we will then set up a VM to install osTicke
 <br />
 
 <p>
-<a href="https://ibb.co/VSV6Md3"><img src="https://i.ibb.co/cFJq2Px/VM-Create.png" alt="VM-Create" border="0"></a>
+<a href="https://ibb.co/s1T7zwX"><img src="https://i.ibb.co/FYQpCwd/VM-Create.png" alt="VM-Create" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
