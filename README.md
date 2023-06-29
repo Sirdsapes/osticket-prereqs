@@ -52,6 +52,8 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6tNVcG7/Remote-Desk.png" alt="Remote-Desk" border="0"></a>
   
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/pZyNJbm/Connection.png" alt="Connection" border="0"></a>
+
+<a href="https://ibb.co/2kq4TwC"><img src="https://i.ibb.co/vj1nSbT/Remote-Desk-Welcome.png" alt="Remote-Desk-Welcome" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
