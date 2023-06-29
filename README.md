@@ -43,6 +43,23 @@ After our resource group is created, we will then set up a VM to install osTicke
 <a href="https://ibb.co/4FsR4xW"><img src="https://i.ibb.co/XWyxFTX/VM-Create-2.png" alt="VM-Create-2" border="0"></a>
 </p>
 <p>
+After the VM has been successfully deployed, we need to remote into it. Copy the IP of the VM and then open Remote Desktop Connection using Windows. Paste the public IP address into the Computer field and click Connect.
+</p>
+<br />
+
+<p>
+<a href="https://ibb.co/7NnqsMQ"><img src="https://i.ibb.co/yB6rHvp/VM-IP.png" alt="VM-IP" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6tNVcG7/Remote-Desk.png" alt="Remote-Desk" border="0"></a>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
