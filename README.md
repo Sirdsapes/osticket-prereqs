@@ -56,12 +56,12 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://ibb.co/2kq4TwC"><img src="https://i.ibb.co/vj1nSbT/Remote-Desk-Welcome.png" alt="Remote-Desk-Welcome" border="0"></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We need to install the prerequisites for osTicket now, starting with IIS. Open the Control Panel by typing Control Panel in the search box of the Windows taskbar. Click Programs; click Turn Windows features on or off; scroll down to Internet Information Services and check the box on the left. Expand the World Wide Web services section; expand the Applications Development Features section and check CGI; expand Common HTTP Features and check all; then click OK.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/wsfKw67"><img src="https://i.ibb.co/jRSLW4z/IIS-Prompt.png" alt="IIS-Prompt" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
