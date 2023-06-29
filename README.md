@@ -32,12 +32,13 @@ We need to first create resource groups to install our the VM on using Azure.
 <a href="https://ibb.co/10xt2RS"><img src="https://i.ibb.co/WH14KBT/RG-Success.png" alt="RG-Success" border="0"></a>
 </p>
 <p>
-After our resource group is created, we will then set up a VM to install osTicket onto.
+After our resource group is created, we will then set up a VM to install osTicket onto. Make sure the VM is created within the resource group just made, i.e. RG-osTicket.
 </p>
 <br />
 
 <p>
 <a href="https://ibb.co/s1T7zwX"><img src="https://i.ibb.co/FYQpCwd/VM-Create.png" alt="VM-Create" border="0"></a>
+<a href="https://ibb.co/qrcJ6GW"><img src="https://i.ibb.co/wzPctHw/VM-Setup.png" alt="VM-Setup" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
