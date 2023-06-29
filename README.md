@@ -29,6 +29,7 @@ We need to first create resource groups to install our the VM on using Azure.
 <p>
 <a href="https://ibb.co/bJn1hLj"><img src="https://i.ibb.co/tX5Bfcw/Resource-Azure-Arrow.png" alt="Resource-Azure-Arrow" border="0"></a>
 <a href="https://ibb.co/SBc3KvT"><img src="https://i.ibb.co/9WhrqYX/Create-Resource-G.png" alt="Create-Resource-G" border="0"></a>
+<a href="https://ibb.co/10xt2RS"><img src="https://i.ibb.co/WH14KBT/RG-Success.png" alt="RG-Success" border="0"></a>
 </p>
 <p>
 After our resource group is created, we will then set up a VM to install osTicket onto.
