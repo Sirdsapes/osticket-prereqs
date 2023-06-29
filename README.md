@@ -27,7 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 We need to first create resource groups to install our the VM on using Azure.
 <p>
-<a href="https://ibb.co/tK0H1KR"><img src="https://i.ibb.co/YQ5NVQg/Resource-Azure.png" alt="Resource-Azure" border="0"></a>
+<a href="https://ibb.co/bJn1hLj"><img src="https://i.ibb.co/tX5Bfcw/Resource-Azure-Arrow.png" alt="Resource-Azure-Arrow" border="0"></a>
+<a href="https://ibb.co/SBc3KvT"><img src="https://i.ibb.co/9WhrqYX/Create-Resource-G.png" alt="Create-Resource-G" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
