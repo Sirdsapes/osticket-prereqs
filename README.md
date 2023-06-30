@@ -72,7 +72,7 @@ We need to install the prerequisites for osTicket now, starting with IIS. Open t
 
 -We then need to download VC_redist.x86.exe and install when complete.
 
--Following that, we need to install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Open the mysql file; do a Typical install; 
+-Following that, we need to install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Open the mysql file; do a Typical install. Launch the MySQL Server Instance Configuration Wizard. Click Standard Configuration; keep service name MySQL
 </p>
 <br />
 
@@ -80,6 +80,7 @@ We need to install the prerequisites for osTicket now, starting with IIS. Open t
 <a href="https://ibb.co/jwWP7Xw"><img src="https://i.ibb.co/myXVQWy/PHP-Folder.png" alt="PHP-Folder" border="0"></a>
 <a href="https://ibb.co/pPcJrpm"><img src="https://i.ibb.co/3s2BYHJ/PHP-Ext.png" alt="PHP-Ext" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/QKFPXH4/SQL-Inst.png" alt="SQL-Inst" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TtnncSt/SQL-Config.png" alt="SQL-Config" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
