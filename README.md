@@ -82,8 +82,21 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://ibb.co/jwWP7Xw"><img src="https://i.ibb.co/myXVQWy/PHP-Folder.png" alt="PHP-Folder" border="0"></a>
 <a href="https://ibb.co/pPcJrpm"><img src="https://i.ibb.co/3s2BYHJ/PHP-Ext.png" alt="PHP-Ext" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/QKFPXH4/SQL-Inst.png" alt="SQL-Inst" border="0"></a>
+  
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/TtnncSt/SQL-Config.png" alt="SQL-Config" border="0"></a>
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/YcLwBMH/SQL-Install.png" alt="SQL-Install" border="0"></a>
+</p>
+<p>
+-After MySQL has finished, run IIS as Administrator (right-click and select Run as Administrator). 
+  
+-Open PHP Manager. You'll see "PHP is not enabled. Register new PHP version to enable PHP via FastCGI." Click Register new PHP version. In the new window, click the 3 dots and locate the php-cgi.exe in the PHP directory we created earlier.
+</p>
+<br />
+
+<p>
+<a href="https://ibb.co/86RgBkq"><img src="https://i.ibb.co/yWMFR2t/SQL-Window.png" alt="SQL-Window" border="0"></a>
+<a href="https://ibb.co/HhqMJK9"><img src="https://i.ibb.co/rdHLWQX/SQL-Reg.png" alt="SQL-Reg" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
