@@ -66,12 +66,20 @@ We need to install the prerequisites for osTicket now, starting with IIS. Open t
 <a href="https://ibb.co/Z2mRWR6"><img src="https://i.ibb.co/FHVkgkb/IIS-Test.png" alt="IIS-Test" border="0"></a>
 </p>
 <p>
-Next, download PHP Manager For IIS (PHPManagerForIIS_V1.5.0.msi) -- current version is preferred -- and install it. After installing PHPManager, download Rewrite Module (rewrite_amd64_en-US.msi). After both programs are installed, we need to create a PHP directory on the local HDD. Right-click the C: drive, go to Folder, and click New, and name the folder PHP. We then need to download PHP to fill the folder. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into the PHP folder.
+-Next, download PHP Manager For IIS (PHPManagerForIIS_V1.5.0.msi) -- current version is preferred -- and install it. After installing PHPManager, download Rewrite Module (rewrite_amd64_en-US.msi). After both programs are installed, we need to create a PHP directory on the local HDD.
+
+-Right-click the C: drive, go to Folder, and click New, and name the folder PHP. We then need to download PHP to fill the folder. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into the PHP folder.
+
+-We then need to download VC_redist.x86.exe and install when complete.
+
+-Following that, we need to install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Open the mysql file; do a Typical install; 
 </p>
 <br />
 
 <p>
 <a href="https://ibb.co/jwWP7Xw"><img src="https://i.ibb.co/myXVQWy/PHP-Folder.png" alt="PHP-Folder" border="0"></a>
+<a href="https://ibb.co/pPcJrpm"><img src="https://i.ibb.co/3s2BYHJ/PHP-Ext.png" alt="PHP-Ext" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QKFPXH4/SQL-Inst.png" alt="SQL-Inst" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
