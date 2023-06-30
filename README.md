@@ -100,12 +100,14 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://ibb.co/dkHZ1vW"><img src="https://i.ibb.co/8PQkTwK/Restart-VM.png" alt="Restart-VM" border="0"></a>
 </p>
 <p>
--Next, we install osTicket.
+-Next, we install osTicket (osTicket v1.15.8 zip). There will be an upload foler in the zip file which you will drag-and-drop into the wwwroot folder located in C: inetpub and then wwwroot. Rename the upload folder you just moved to osTicket. Reopen IIS and restart the server just like before.
+-Open osTicket from the IIS window by clicking the osTicket folder under Sites; click "Browse *:80" located on the right panel.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/3hz9XP4"><img src="https://i.ibb.co/DKpHXjz/upload-OS.png" alt="upload-OS" border="0"></a>
+<a href="https://ibb.co/RTBr98v"><img src="https://i.ibb.co/VYQnt6j/OSTick.png" alt="OSTick" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
