@@ -102,7 +102,7 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <p>
 -Next, we install osTicket (osTicket v1.15.8 zip). There will be an upload foler in the zip file which you will drag-and-drop into the wwwroot folder located in C: inetpub and then wwwroot. Rename the upload folder you just moved to osTicket. Reopen IIS and restart the server just like before.
 -Open osTicket from the IIS window by clicking the osTicket folder under Sites; click "Browse *:80" located on the right panel and osTicket should open.
--Some services appear to not be working -- as indicated by the X. Go back to IIS and click PHP Manager within the osTicket folder and click "Enable or disable an extension".
+-Some services appear to not be working -- as indicated by the X. Go back to IIS and click PHP Manager within the osTicket folder and click "Enable or disable an extension". Enable the currently-disabled extensions by clicking an extension and then Enable under Actions.
 </p>
 <br />
 
@@ -111,6 +111,7 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://ibb.co/RTBr98v"><img src="https://i.ibb.co/VYQnt6j/OSTick.png" alt="OSTick" border="0"></a>
 <a href="https://ibb.co/SwWsc8z"><img src="https://i.ibb.co/k2kHJft/OSTick-Succ.png" alt="OSTick-Succ" border="0"></a>
 <a href="https://ibb.co/LNj5NsL"><img src="https://i.ibb.co/rd8sdXC/OS-Enab.png" alt="OS-Enab" border="0"></a>
+<a href="https://ibb.co/DKFFqMM"><img src="https://i.ibb.co/kcTTdDD/Exten-Enab.png" alt="Exten-Enab" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
