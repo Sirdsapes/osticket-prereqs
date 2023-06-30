@@ -147,4 +147,3 @@ If everything was done correctly, osTicket will have installed. People will now 
 <a href="https://ibb.co/3r6TR4R"><img src="https://i.ibb.co/Lkj0NYN/Os-Tick-Tick.png" alt="Os-Tick-Tick" border="0"></a>
 </p>
 <p>
-
