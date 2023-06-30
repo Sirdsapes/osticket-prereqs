@@ -122,7 +122,8 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 </p>
 <p>
 -We will continue setting up osTicket in the browser. Click Continue. Fill out the necessary System Settings and Admin User information.
--We need to install HeidiSQL (HeidiSQL_12.3.0.6589_Setup) to finish the Database Settings portion. Once Heidi is finished downloading and installing, click New, enter your username and password that was used for the MySQL set up.
+-We need to install HeidiSQL (HeidiSQL_12.3.0.6589_Setup) to finish the Database Settings portion. Once Heidi is finished downloading and installing, click New, enter your username and password that was used for the MySQL set up and click Open. In the new window, right-click Unnamed and create a new Databas named osTicket.
+-Back in the osTicket browser window, we enter in the relevant information and install.
 </p>
 <br />
 
@@ -130,6 +131,9 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://ibb.co/mNfQk7z"><img src="https://i.ibb.co/fDjmf70/Os-Enabl.png" alt="Os-Enabl" border="0"></a>
 <a href="https://ibb.co/tbsCZHw"><img src="https://i.ibb.co/nDck3wq/OS-Info.png" alt="OS-Info" border="0"></a>
 <a href="https://ibb.co/qd7pqB6"><img src="https://i.ibb.co/DtzQc4d/Heidi.png" alt="Heidi" border="0"></a>
+<a href="https://ibb.co/1qcML9m"><img src="https://i.ibb.co/d2ZtrQ5/Heidi-Dat.png" alt="Heidi-Dat" border="0"></a>
+<a href="https://ibb.co/rZsV0TK"><img src="https://i.ibb.co/qR5vjXL/Heidi-Ost.png" alt="Heidi-Ost" border="0"></a>
+<a href="https://ibb.co/G251WNX"><img src="https://i.ibb.co/Z8MwB73/Os-Tick-Inst.png" alt="Os-Tick-Inst" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
