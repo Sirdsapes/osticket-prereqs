@@ -66,12 +66,12 @@ We need to install the prerequisites for osTicket now, starting with IIS. Open t
 <a href="https://ibb.co/Z2mRWR6"><img src="https://i.ibb.co/FHVkgkb/IIS-Test.png" alt="IIS-Test" border="0"></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, download PHP Manager For IIS (PHPManagerForIIS_V1.5.0.msi) -- current version is preferred -- and install it. After installing PHPManager, download Rewrite Module (rewrite_amd64_en-US.msi). After both programs are installed, we need to create a PHP directory on the local HDD. Right-click the C: drive, go to Folder, and click New, and name the folder PHP.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/jwWP7Xw"><img src="https://i.ibb.co/myXVQWy/PHP-Folder.png" alt="PHP-Folder" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
