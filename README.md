@@ -137,22 +137,14 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://ibb.co/G251WNX"><img src="https://i.ibb.co/Z8MwB73/Os-Tick-Inst.png" alt="Os-Tick-Inst" border="0"></a>
 </p>
 <p>
-If everything was done correctly, osTicket will have installed.
+If everything was done correctly, osTicket will have installed. People will now be able to create tickets.
 </p>
 <br />
 
 <p>
 <a href="https://ibb.co/2vWfn3y"><img src="https://i.ibb.co/9bcC8HN/OST-Succ.png" alt="OST-Succ" border="0"></a>
+<a href="https://ibb.co/XD9g1Z7"><img src="https://i.ibb.co/Sc28bXt/OS-Login.png" alt="OS-Login" border="0"></a>
+<a href="https://ibb.co/3r6TR4R"><img src="https://i.ibb.co/Lkj0NYN/Os-Tick-Tick.png" alt="Os-Tick-Tick" border="0"></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
