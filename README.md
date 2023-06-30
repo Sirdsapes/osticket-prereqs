@@ -104,7 +104,8 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 -Open osTicket from the IIS window by clicking the osTicket folder under Sites; click "Browse *:80" located on the right panel and osTicket should open.
 -Some services appear to not be working -- as indicated by the X. Go back to IIS and click PHP Manager within the osTicket folder and click "Enable or disable an extension". Enable the disabled extensions (php_imap.dll, php_intl.dll, php_opcache.dll) by clicking an extension and then Enable under Actions. 
 -Refresh osTicket in the browser to see the extensions now enabled.
--In C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, rename "ost-sampleconfig" to "ost-config". Open the Properties of ost-config and go to the Security tab, click Advanced, and Disable inheritance.
+-In C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, rename "ost-sampleconfig" to "ost-config". Open the Properties of ost-config and go to the Security tab, click Advanced, Disable inheritance, and Remove all permissions. 
+-Click Add and Select a principal. Add Everyone and give them Full control. Everyone should now have permission to modify the ost-config file.
 </p>
 <br />
 
@@ -117,6 +118,7 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://ibb.co/mNfQk7z"><img src="https://i.ibb.co/fDjmf70/Os-Enabl.png" alt="Os-Enabl" border="0"></a>
 <a href="https://ibb.co/VvFRsj7"><img src="https://i.ibb.co/Hrc6jFW/OST-Config.png" alt="OST-Config" border="0"></a>
 <a href="https://ibb.co/z7fmq4r"><img src="https://i.ibb.co/RBHgRD9/Advan-Sec.png" alt="Advan-Sec" border="0"></a>
+<a href="https://ibb.co/k4JF386"><img src="https://i.ibb.co/StcpQn7/Permission.png" alt="Permission" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
