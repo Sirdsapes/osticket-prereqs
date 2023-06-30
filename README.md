@@ -56,7 +56,9 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 <a href="https://ibb.co/2kq4TwC"><img src="https://i.ibb.co/vj1nSbT/Remote-Desk-Welcome.png" alt="Remote-Desk-Welcome" border="0"></a>
 </p>
 <p>
-We need to install the prerequisites for osTicket now, starting with IIS. Open the Control Panel by typing Control Panel in the search box of the Windows taskbar. Click Programs; click Turn Windows features on or off; scroll down to Internet Information Services and check the box on the left. Expand the World Wide Web services section; expand the Applications Development Features section and check CGI; expand Common HTTP Features and check all; then click OK. To test everything is working properly, open a browser and enter 127.0.0.1. If it doesn't work, try reinstalling IIS by unchecking Internet Information Services in Control Panel, clicking OK, then rechecking IIS and pressing OK.
+-We need to install the prerequisites for osTicket now, starting with IIS. Open the Control Panel by typing Control Panel in the search box of the Windows taskbar. Click Programs; click Turn Windows features on or off; scroll down to Internet Information Services and check the box on the left. Expand the World Wide Web services section; expand the Applications Development Features section and check CGI; expand Common HTTP Features and check all; then click OK. 
+  
+-To test everything is working properly, open a browser and enter 127.0.0.1. If it doesn't work, try reinstalling IIS by unchecking Internet Information Services in Control Panel, clicking OK, then rechecking IIS and pressing OK.
 </p>
 <br />
 
@@ -72,7 +74,7 @@ We need to install the prerequisites for osTicket now, starting with IIS. Open t
 
 -We then need to download VC_redist.x86.exe and install when complete.
 
--Following that, we need to install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Open the mysql file; do a Typical install. Launch the MySQL Server Instance Configuration Wizard. Click Standard Configuration; keep service name MySQL
+-Following that, we need to install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Open the mysql file; do a Typical install. Launch the MySQL Server Instance Configuration Wizard. Click Standard Configuration; keep service name MySQL; set up a password and then click Execute.
 </p>
 <br />
 
