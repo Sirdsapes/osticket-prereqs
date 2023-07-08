@@ -25,14 +25,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-We need to first create resource groups to install our the VM on using Azure.
+-We need to first create resource groups to install our the VM on using Azure.
 <p>
 <a href="https://ibb.co/bJn1hLj"><img src="https://i.ibb.co/tX5Bfcw/Resource-Azure-Arrow.png" alt="Resource-Azure-Arrow" border="0"></a>
 <a href="https://ibb.co/SBc3KvT"><img src="https://i.ibb.co/9WhrqYX/Create-Resource-G.png" alt="Create-Resource-G" border="0"></a>
 <a href="https://ibb.co/10xt2RS"><img src="https://i.ibb.co/WH14KBT/RG-Success.png" alt="RG-Success" border="0"></a>
 </p>
 <p>
-After our resource group is created, we will then set up a VM to install osTicket onto. Make sure the VM is created within the resource group just made, i.e. RG-osTicket.
+-After our resource group is created, we will then set up a VM to install osTicket onto. Make sure the VM is created within the resource group just made, i.e. RG-osTicket.
 </p>
 <br />
 
@@ -43,7 +43,7 @@ After our resource group is created, we will then set up a VM to install osTicke
 <a href="https://ibb.co/4FsR4xW"><img src="https://i.ibb.co/XWyxFTX/VM-Create-2.png" alt="VM-Create-2" border="0"></a>
 </p>
 <p>
-After the VM has been successfully deployed, we need to remote into it. Copy the IP of the VM and then open Remote Desktop Connection using Windows. Paste the public IP address into the Computer field and click Connect. When prompted to enter your credential, remember the username and password that was used to create the VM. Click Yes to connect to the VM. 
+-After the VM has been successfully deployed, we need to remote into it. Copy the IP of the VM and then open Remote Desktop Connection using Windows. Paste the public IP address into the Computer field and click Connect. When prompted to enter your credential, remember the username and password that was used to create the VM. Click Yes to connect to the VM. 
 </p>
 <br />
 
@@ -101,10 +101,15 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 </p>
 <p>
 -Next, we install osTicket (osTicket v1.15.8 zip). There will be an upload foler in the zip file which you will drag-and-drop into the wwwroot folder located in C: inetpub and then wwwroot. Rename the upload folder you just moved to osTicket. Reopen IIS and restart the server just like before.
+  
 -Open osTicket from the IIS window by clicking the osTicket folder under Sites; click "Browse *:80" located on the right panel and osTicket should open.
+
 -Some services appear to not be working -- as indicated by the X. Go back to IIS and click PHP Manager within the osTicket folder and click "Enable or disable an extension". Enable the disabled extensions (php_imap.dll, php_intl.dll, php_opcache.dll) by clicking an extension and then Enable under Actions. 
+
 -Refresh osTicket in the browser to see the extensions now enabled.
+
 -In C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, rename "ost-sampleconfig" to "ost-config". Open the Properties of ost-config and go to the Security tab, click Advanced, Disable inheritance, and Remove all permissions. 
+
 -Click Add and Select a principal. Add Everyone and give them Full control. Everyone should now have permission to modify the ost-config file.
 </p>
 <br />
@@ -122,7 +127,9 @@ After the VM has been successfully deployed, we need to remote into it. Copy the
 </p>
 <p>
 -We will continue setting up osTicket in the browser. Click Continue. Fill out the necessary System Settings and Admin User information.
+  
 -We need to install HeidiSQL (HeidiSQL_12.3.0.6589_Setup) to finish the Database Settings portion. Once Heidi is finished downloading and installing, click New, enter your username and password that was used for the MySQL set up and click Open. In the new window, right-click Unnamed and create a new Databas named osTicket.
+
 -Back in the osTicket browser window, we enter in the relevant information and install.
 
 </p>
